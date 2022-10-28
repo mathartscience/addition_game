@@ -8,6 +8,7 @@ def quiz_addition():
     num1 = random.randint(1,1000)
     num2 = random.randint(1,1000)
     answer = num1 + num2
+    print()
     print(num1)
     print('+')
     print(num2)
